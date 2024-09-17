@@ -65,25 +65,16 @@
   </a>
 </div>
 
-###
-
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ChandanMalakar/count.svg?"  />
-</div>
 
 ## Github Stats
 
-![Github Stats 3](https://github-readme-streak-stats.vercel.app/api?username=ChandanMalakar)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmalakar&show_icons=true&locale=en" alt="chandanmalakar" /></p>
 
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ChandanMalakar)
 
-![Github Stats 2](https://github-readme-streak-stats.vercel.app/api/top-langs/?username=ChandanMalakar)
+
+
 
 
 ###
