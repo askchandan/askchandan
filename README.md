@@ -1,80 +1,67 @@
-<h1 align="center">🌟🌟Welcome to My GitHub Profile🌟🌟</h1>
+## Hi there! 👋
 
-###
+I'm **Chandan Malakar**, a **Data Science Aspirant**. I'm passionate about AI/ML and a fervent advocate for open source. 🚀. My journey in tech has just begun, and I'm excited to grow and learn!
 
-<p align="left">My name is Chandan Malakar, and I'm a pre-final year student at Vinayaka Misson's Research Foundation in Chennai, pursuing a degree in Computer Science Engineering.</p>
+## About Me
 
-###
+I am a dedicated **Data Science** student with a strong foundation in programming languages like **Python** and **C++**. Currently, I'm focused on honing my skills in deep learning. I believe in continuous learning and am always looking for opportunities to enhance my knowledge and experience.
 
-<h2 align="left">About me</h2>
+## Skills & Technologies
 
-###
+anaconda,cpp,flask,git,github,mysql,mongodb,netlify,pycharm,regex,sklearn,vercel,visualstudio
 
-<p align="left">Hello! I'm a passionate Data Analyst aspirant with a love for learning and simplifying complex topics. I am actively working towards mastering data analysis using Python, focusing on libraries such as pandas, numpy, seaborn, and matplotlib.</p>
+## Top Projects
 
-###
+- [ChandanMalakar.github.io](https://github.com/ChandanMalakar/ChandanMalakar.github.io)
+  - **Description:** Personal website showcasing my projects and achievements.
+  - **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Open Issues:** 0
 
-<h2 align="left">I work with these IDE's and languages</h2>
+- [Laptop-Price-Prediction](https://github.com/ChandanMalakar/Laptop-Price-Prediction)
+  - **Description:** A prediction model to estimate laptop prices based on various attributes.
+  - **Stars:** 0 | **Language:** Jupyter Notebook | **Forks:** 0 | **Open Issues:** 0
 
-###
+- [pr-vercel](https://github.com/ChandanMalakar/pr-vercel)
+  - **Description:** A project utilizing Vercel for deployment and serverless functions.
+  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+- [projects](https://github.com/ChandanMalakar/projects)
+  - **Description:** A collection of various programming projects demonstrating my skills.
+  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
 
-###
+- [OIBSIP](https://github.com/ChandanMalakar/OIBSIP)
+  - **Description:** A project focused on tasks from the Open Internship program.
+  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/chandanmalakar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/chandan6209" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/brtl_goku" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCNqJ8vXaeGwKif-zXy2r0uw" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+## GitHub Stats
+
+📦 **Public Repositories:** 18  
+📝 **Gists:** 0  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanMalakar&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- **Created** [CNAME](https://github.com/ChandanMalakar/ChandanMalakar.github.io/commit/864502f4f74d49774d3418cd28606bf94abfdfec) in [ChandanMalakar.github.io](https://github.com/ChandanMalakar/ChandanMalakar.github.io)  
+- **Updated** index.html in [ChandanMalakar.github.io](https://github.com/ChandanMalakar/ChandanMalakar.github.io)  
+- **Deleted** CNAME in [ChandanMalakar.github.io](https://github.com/ChandanMalakar/ChandanMalakar.github.io)  
+- **Added** Dev Container Folder in [Laptop-Price-Prediction](https://github.com/ChandanMalakar/Laptop-Price-Prediction)  
+- **First Commit** in [Laptop-Price-Prediction](https://github.com/ChandanMalakar/Laptop-Price-Prediction)
+
+## Latest Blog Posts
+
+https://medium.com/@chandanmalakar/seaborn-stories-of-imagination-and-visualization-1e4953174f24
+
+## Connect with Me
+
+{"instagram":"https://www.instagram.com/_its._.zephyrus_","linkedin":"https://www.linkedin.com/in/chandanmalakar/","generic":"https://medium.com/@chandanmalakar","reddit":"https://www.reddit.com/user/PomegranateFunny7165/"}
+
+## 
+
+```
+
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█░░░░░░░░▀█▄▀▄▀██████░▀█▄▀▄▀██████░
+░░░░░░░░░░░▀█▄█▄███▀░░░ ▀██▄█▄███▀░
 
 
-## Github Stats
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanmalakar&show_icons=true&locale=en" alt="chandanmalakar" /></p>
-
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ChandanMalakar)
-
-
-
-
-
-###
+                                                                                
+```
