@@ -7,12 +7,12 @@ I'm a **Data Science Aspirant**. I'm passionate about AI/ML and a fervent advoca
 I am a dedicated **Data Science** student with a strong foundation in programming languages like **Python** and **C++**. Currently, I'm focused on honing my skills in deep learning. I believe in continuous learning and am always looking for opportunities to enhance my knowledge and experience.
 
 ## Skills & Technologies
-
-anaconda,cpp,flask,git,github,mysql,mongodb,netlify,pycharm,regex,sklearn,vercel,visualstudio
+ 
+Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, sklearn, Vercel
 
 ## Top Projects
 
-- [ChandanMalakar.github.io](https://github.com/askchandan/askchandan.github.io)
+- [askchandan.github.io](https://github.com/askchandan/askchandan.github.io)
   - **Description:** Personal website showcasing my projects and achievements.
   - **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Open Issues:** 0
 
@@ -41,6 +41,7 @@ anaconda,cpp,flask,git,github,mysql,mongodb,netlify,pycharm,regex,sklearn,vercel
 
 
 ### Languages and Tools:
+
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="26px" height="26px"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="26px" height="26px"/>
