@@ -12,8 +12,8 @@ Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, skle
 
 ## Top Projects
 
-- [askchandan.github.io](https://github.com/askchandan/askchandan.github.io)
-  - **Description:** Personal website showcasing my projects and achievements.
+- [Twitter-Sentiment-Analysis](https://github.com/askchandan/Twitter-Sentiment-Analysis)
+  - **Description:** A sentiment analyser for twitter tweets.
   - **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Open Issues:** 0
 
 - [Laptop-Price-Prediction](https://github.com/askchandan/Laptop-Price-Prediction)
