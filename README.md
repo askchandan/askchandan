@@ -36,8 +36,6 @@ Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, skle
 
 📦 **Public Repositories:** 18  
 📝 **Gists:** 0  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=askchandan&show_icons=true&theme=radical)
-
 
 
 ### Languages and Tools:
@@ -87,8 +85,7 @@ https://medium.com/@chandanmalakar/seaborn-stories-of-imagination-and-visualizat
   
   <tr>
       <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askchandan&theme=tokyonight" />
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=soumali28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" /> -->
+        <img src="https://github-readme-stats.vercel.app/api?username=askchandan&show_icons=true&theme=radical"/>
     </td>
     <td>
        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=askchandan&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
