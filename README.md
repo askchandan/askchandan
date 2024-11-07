@@ -12,23 +12,23 @@ anaconda,cpp,flask,git,github,mysql,mongodb,netlify,pycharm,regex,sklearn,vercel
 
 ## Top Projects
 
-- [ChandanMalakar.github.io](https://github.com/ChandanMalakar/ChandanMalakar.github.io)
+- [ChandanMalakar.github.io](https://github.com/askchandan/askchandan.github.io)
   - **Description:** Personal website showcasing my projects and achievements.
   - **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Open Issues:** 0
 
-- [Laptop-Price-Prediction](https://github.com/ChandanMalakar/Laptop-Price-Prediction)
+- [Laptop-Price-Prediction](https://github.com/askchandan/Laptop-Price-Prediction)
   - **Description:** A prediction model to estimate laptop prices based on various attributes.
   - **Stars:** 0 | **Language:** Jupyter Notebook | **Forks:** 0 | **Open Issues:** 0
 
-- [pr-vercel](https://github.com/ChandanMalakar/pr-vercel)
+- [pr-vercel](https://github.com/askchandan/pr-vercel)
   - **Description:** A project utilizing Vercel for deployment and serverless functions.
   - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
 
-- [projects](https://github.com/ChandanMalakar/projects)
+- [projects](https://github.com/askchandan/projects)
   - **Description:** A collection of various programming projects demonstrating my skills.
   - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
 
-- [OIBSIP](https://github.com/ChandanMalakar/OIBSIP)
+- [OIBSIP](https://github.com/askchandan/OIBSIP)
   - **Description:** A project focused on tasks from the Open Internship program.
   - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
 
@@ -36,15 +36,15 @@ anaconda,cpp,flask,git,github,mysql,mongodb,netlify,pycharm,regex,sklearn,vercel
 
 📦 **Public Repositories:** 18  
 📝 **Gists:** 0  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChandanMalakar&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=askchandan&show_icons=true&theme=radical)
 
 ## Recent Activity
 
-- **Created** [CNAME](https://github.com/ChandanMalakar/ChandanMalakar.github.io/commit/864502f4f74d49774d3418cd28606bf94abfdfec) in [ChandanMalakar.github.io](https://github.com/ChandanMalakar/ChandanMalakar.github.io)  
-- **Updated** index.html in [ChandanMalakar.github.io](https://github.com/ChandanMalakar/ChandanMalakar.github.io)  
-- **Deleted** CNAME in [ChandanMalakar.github.io](https://github.com/ChandanMalakar/ChandanMalakar.github.io)  
-- **Added** Dev Container Folder in [Laptop-Price-Prediction](https://github.com/ChandanMalakar/Laptop-Price-Prediction)  
-- **First Commit** in [Laptop-Price-Prediction](https://github.com/ChandanMalakar/Laptop-Price-Prediction)
+- **Created** [CNAME](https://github.com/askchandan/askchandan.github.io/commit/864502f4f74d49774d3418cd28606bf94abfdfec) in [ChandanMalakar.github.io](https://github.com/askchandan/askchandan.github.io)  
+- **Updated** index.html in [askchandan.github.io](https://github.com/askchandan/askchandan.github.io)  
+- **Deleted** CNAME in [askchandan.github.io](https://github.com/askchandan/askchandan.github.io)  
+- **Added** Dev Container Folder in [Laptop-Price-Prediction](https://github.com/askchandan/Laptop-Price-Prediction)  
+- **First Commit** in [Laptop-Price-Prediction](https://github.com/askchandan/Laptop-Price-Prediction)
 
 ## Latest Blog Posts
 
