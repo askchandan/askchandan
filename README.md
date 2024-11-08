@@ -85,7 +85,7 @@ https://medium.com/@chandanmalakar/seaborn-stories-of-imagination-and-visualizat
   
   <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=askchandan&show_icons=true&theme=radical"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askchandan&theme=tokyonight" />
     </td>
     <td>
        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=askchandan&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
