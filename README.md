@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Chandan+Malakar.)](https://git.io/typing-svg)
 
-I'm a **Data Science Aspirant**. I'm passionate about AI/ML and a fervent advocate for open source. 🚀. My journey in tech has just begun, and I'm excited to grow and learn!
-
 ## About Me
 
-I am a dedicated **Data Science** student with a strong foundation in programming languages like **Python** and **C++**. Currently, I'm focused on honing my skills in deep learning. I believe in continuous learning and am always looking for opportunities to enhance my knowledge and experience.
+I'm on an exciting journey to become a data scientist. I'm following a structured roadmap to reach my goal, and I've now advanced to the machine learning stage. I'm passionate about using my skills to create meaningful, positive changes in everyday life. My focus is on mastering data science to tackle real-world challenges and deliver impactful solutions across different fields.
+
+Cureently in my **Pre-final year** of **B.E. CSE** at [**Aarupadai Veedu Institute of Technology**] 🎆✨
 
 ## Skills & Technologies
  
