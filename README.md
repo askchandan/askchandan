@@ -60,11 +60,13 @@ Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, skle
 
 ### Contact me:
 
+<center>
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chandanmalakar7549@gmail.com)](mailto:chandanmalakar7549@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanmalakar/)](https://www.linkedin.com/in/chandanmalakar/)
 <a href="https://wa.me/6209141001" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="20" alt="whatsapp logo"  />
 </a>
+</center>
 
 ## Latest Blog Posts
 
