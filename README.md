@@ -12,9 +12,13 @@ Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, skle
 
 ## Top Projects
 
+- [cnnClassifier](https://github.com/askchandan/cnnClassifier)
+  - **Description:** A cat dog images classifier.
+  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0 
+
 - [Twitter-Sentiment-Analysis](https://github.com/askchandan/Twitter-Sentiment-Analysis)
   - **Description:** A sentiment analyser for twitter tweets.
-  - **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Open Issues:** 0
+  - **Stars:** 0 | **Language:** Jupyter Notebook | **Forks:** 0 | **Open Issues:** 0
 
 - [Laptop-Price-Prediction](https://github.com/askchandan/Laptop-Price-Prediction)
   - **Description:** A prediction model to estimate laptop prices based on various attributes.
@@ -26,10 +30,6 @@ Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, skle
 
 - [projects](https://github.com/askchandan/projects)
   - **Description:** A collection of various programming projects demonstrating my skills.
-  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
-
-- [OIBSIP](https://github.com/askchandan/OIBSIP)
-  - **Description:** A project focused on tasks from the Open Internship program.
   - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
 
 ## GitHub Stats
