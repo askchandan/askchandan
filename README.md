@@ -70,7 +70,7 @@ Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, skle
 
 ## Latest Blog Posts
 
-https://medium.com/@chandanmalakar/seaborn-stories-of-imagination-and-visualization-1e4953174f24
+https://t.ly/ZlpIh
 
 <!-- Github Stats --> 
 ### Github stats:
