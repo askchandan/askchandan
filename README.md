@@ -35,7 +35,6 @@ Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, skle
 ## GitHub Stats
 
 📦 **Public Repositories:** 18  
-📝 **Gists:** 0  
 
 
 ### Languages and Tools:
