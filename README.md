@@ -4,7 +4,7 @@
 
 I'm on an exciting journey to become a data scientist. I'm following a structured roadmap to reach my goal, and I've now advanced to the machine learning stage. I'm passionate about using my skills to create meaningful, positive changes in everyday life. My focus is on mastering data science to tackle real-world challenges and deliver impactful solutions across different fields.
 
-Cureently in my **Pre-final year** of **B.E. CSE** at [**Aarupadai Veedu Institute of Technology**] 🎆✨
+Cureently in my **Pre-final year** of **B.E. CSE** at [**Aarupadai Veedu Institute of Technology**] 🎆🌟
 
 ## Skills & Technologies
  
