@@ -8,7 +8,8 @@ Cureently in my **Pre-final year** of **B.E. CSE** at [**Aarupadai Veedu Institu
 
 ## Skills & Technologies
  
-Anaconda, cpp, Flask, Git, Github, Mysql, Mongodb, Netlify, pycharm, regex, sklearn, Vercel
+Data Ingestion, Data Gathering, Data Preprocessing, Data Wrangling, Feature Engineering, Model Training, Model Evaluation, 
+Anaconda, CPP, Flask, Git, Github, Mysql, Mongodb, Netlify, Pycharm, Regex, Sklearn, Vercel, Streamlit, Amazon AWS 
 
 ## Top Projects
 
