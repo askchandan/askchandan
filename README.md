@@ -13,7 +13,7 @@ I'm a passionate **Data Science Aspirant** and **Machine Learning Engineer** wit
 - 🌱 I'm currently learning **Advanced ML Algorithms**, **Deep Learning**, and **MLOps**
 - 👯 I'm looking to collaborate on **Data Science Projects** and **Open Source ML Libraries**
 - 💬 Ask me about **Python**, **Machine Learning**, **Data Analytics**, and **Statistical Modeling**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **chandanmalakar7549@gmail.com**
 - ⚡ Fun fact: I love creating roadmaps to help others learn Data Science!
 
 ## 🛠️ Technical Skills & Technologies
@@ -79,13 +79,6 @@ I'm a passionate **Data Science Aspirant** and **Machine Learning Engineer** wit
 - **ML Techniques**: Classification, Feature Engineering, Model Evaluation
 - 📈 **Educational Analytics Solution**
 
-### 🖼️ [PIX DEPIX - Image Processing](https://github.com/askchandan/PIX_DEPIX)
-**Advanced computer vision project for image pixelation and de-pixelation**
-- **Tech Stack**: Python, PyTorch, PIL, NumPy, Computer Vision
-- **Features**: Custom dataset creation, image processing pipeline
-- **ML Techniques**: Deep Learning, Image Processing, Neural Networks
-- 🎨 **Computer Vision Innovation**
-
 ### ☁️ [AWS CI/CD MLOps Project](https://github.com/askchandan/AWS_CI_CD_Project)
 **End-to-end MLOps pipeline with continuous integration and deployment**
 - **Tech Stack**: AWS, Docker, Python, CI/CD
@@ -149,4 +142,6 @@ I'm a passionate **Data Science Aspirant** and **Machine Learning Engineer** wit
   **"Turning Data into Insights, Insights into Impact"** 📊✨
 </div>
 
+<div align="center">
 **Thanks for visiting my profile! Let's build something amazing with data! 🚀**
+</div>
