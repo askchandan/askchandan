@@ -1,104 +1,152 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Chandan+Malakar.)](https://git.io/typing-svg)
+# Hi there, I'm Chandan Malakar 👋
+### Data Science Aspirant | Machine Learning Enthusiast | Analytics Professional
 
-## About Me
+[![GitHub followers](https://img.shields.io/github/followers/askchandan?label=Follow&style=social)](https://github.com/askchandan)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/your-linkedin)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat-square&logo=firefox&logoColor=white)](https://chandanmalakar.live)
 
-I'm on an exciting journey to become a data scientist. I'm following a structured roadmap to reach my goal, and I've now advanced to the machine learning stage. I'm passionate about using my skills to create meaningful, positive changes in everyday life. My focus is on mastering data science to tackle real-world challenges and deliver impactful solutions across different fields.
+## 🚀 About Me
 
-Cureently in my **Pre-final year** of **B.E. CSE** at [**Aarupadai Veedu Institute of Technology**] 🎆🌟
+I'm a passionate **Data Science Aspirant** and **Machine Learning Engineer** with a deep love for transforming raw data into meaningful insights that drive business decisions. Currently working as a **Data Analyst Intern at UNIDIF Consulting** for JACO Manufacturing Industry, where I develop data-driven solutions for manufacturing optimization and process improvement.
 
-## Skills & Technologies
- 
-Data Ingestion, Data Gathering, Data Preprocessing, Data Wrangling, Feature Engineering, Model Training, Model Evaluation, 
-Anaconda, CPP, Flask, Git, Github, Mysql, Mongodb, Netlify, Pycharm, Regex, Sklearn, Vercel, Streamlit, Amazon AWS 
+- 🔭 I'm currently working on **Machine Learning Projects** and **Predictive Analytics**
+- 🌱 I'm currently learning **Advanced ML Algorithms**, **Deep Learning**, and **MLOps**
+- 👯 I'm looking to collaborate on **Data Science Projects** and **Open Source ML Libraries**
+- 💬 Ask me about **Python**, **Machine Learning**, **Data Analytics**, and **Statistical Modeling**
+- 📫 How to reach me: **[Your Email]**
+- ⚡ Fun fact: I love creating roadmaps to help others learn Data Science!
 
-## Top Projects
+## 🛠️ Technical Skills & Technologies
 
-- [cnnClassifier](https://github.com/askchandan/cnnClassifier)
-  - **Description:** A cat dog images classifier.
-  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0 
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- [Twitter-Sentiment-Analysis](https://github.com/askchandan/Twitter-Sentiment-Analysis)
-  - **Description:** A sentiment analyser for twitter tweets.
-  - **Stars:** 0 | **Language:** Jupyter Notebook | **Forks:** 0 | **Open Issues:** 0
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-- [Laptop-Price-Prediction](https://github.com/askchandan/Laptop-Price-Prediction)
-  - **Description:** A prediction model to estimate laptop prices based on various attributes.
-  - **Stars:** 0 | **Language:** Jupyter Notebook | **Forks:** 0 | **Open Issues:** 0
+### Deep Learning & Computer Vision
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-- [pr-vercel](https://github.com/askchandan/pr-vercel)
-  - **Description:** A project utilizing Vercel for deployment and serverless functions.
-  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
+### MLOps & Deployment
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-- [projects](https://github.com/askchandan/projects)
-  - **Description:** A collection of various programming projects demonstrating my skills.
-  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-📦 **Public Repositories:** 18  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=askchandan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=askchandan&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=askchandan&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-### Languages and Tools:
+## 🏆 GitHub Achievements
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="26px" height="26px"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="26px" height="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="26px" height="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="26px" height="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="26px" height="26px"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26px" height="26px"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="26px" height="26px"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="26px" height="26px"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power bi" width="26px" height="26px"/>
-<img align="left" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="github" width="26px" height="26px"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio" width="26px" height="26px"/>
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="26px" height="26px"/>
-<br />
-<br />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=askchandan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
 
+## 🎯 Featured Data Science Projects
 
+### 🖥️ [Laptop Price Prediction](https://github.com/askchandan/Laptop-Price-Prediction)
+**A comprehensive machine learning project for predicting laptop prices**
+- **Tech Stack**: Python, Streamlit, Scikit-learn, Pandas, NumPy
+- **Features**: Interactive web app, feature engineering, model deployment
+- **ML Techniques**: Regression, Feature Selection, Data Preprocessing
+- 🌟 **[Live Demo](link-to-streamlit-app)** | 📊 **Interactive Price Predictor**
 
-### Contact me:
+### 📚 [Student Performance Predictor](https://github.com/askchandan/Student_Performance_Predictor)
+**Predictive analytics for student academic performance**
+- **Tech Stack**: Python, Machine Learning, Statistical Analysis
+- **Features**: Data pipeline, logging system, performance metrics
+- **ML Techniques**: Classification, Feature Engineering, Model Evaluation
+- 📈 **Educational Analytics Solution**
 
+### 🖼️ [PIX DEPIX - Image Processing](https://github.com/askchandan/PIX_DEPIX)
+**Advanced computer vision project for image pixelation and de-pixelation**
+- **Tech Stack**: Python, PyTorch, PIL, NumPy, Computer Vision
+- **Features**: Custom dataset creation, image processing pipeline
+- **ML Techniques**: Deep Learning, Image Processing, Neural Networks
+- 🎨 **Computer Vision Innovation**
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chandanmalakar7549@gmail.com)](mailto:chandanmalakar7549@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanmalakar/)](https://www.linkedin.com/in/chandanmalakar/)
-<a href="https://wa.me/6209141001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="20" alt="whatsapp logo"  />
-</a>
+### ☁️ [AWS CI/CD MLOps Project](https://github.com/askchandan/AWS_CI_CD_Project)
+**End-to-end MLOps pipeline with continuous integration and deployment**
+- **Tech Stack**: AWS, Docker, Python, CI/CD
+- **Features**: Automated deployment, containerization, cloud infrastructure
+- **DevOps**: Docker containers, AWS services, automated workflows
+- 🚀 **Production-Ready ML Pipeline**
 
+### 🌐 [Portfolio Website](https://github.com/askchandan/chandanmalakar.live)
+**Personal data science portfolio with modern web technologies**
+- **Tech Stack**: Next.js, React, JavaScript, Responsive Design
+- **Features**: Project showcase, blog integration, modern UI/UX
+- 💼 **[Live Portfolio](https://chandanmalakar.live)**
 
-## Latest Blog Posts
+## 📖 Learning Resources & Contributions
 
-https://t.ly/ZlpIh
+### 📚 [Data Analyst Roadmap 2024](https://github.com/askchandan/Roadmap-To-Become-Data-Analyst-2024)
+**Comprehensive guide for aspiring data analysts**
+- **Content**: Python, Statistics, EDA, Visualization
+- **Resources**: Video tutorials, practical projects, learning paths
+- **Topics**: Machine Learning, Data Analysis, Statistical Methods
+- 🎓 **Helping others learn Data Science!**
 
-<!-- Github Stats --> 
-### Github stats:
+## 📊 Areas of Expertise
 
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=askchandan&theme=tokyonight"/>
-    </td>
-     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=askchandan&theme=tokyonight"/>
-    </td>
-  </tr>
+- **📈 Data Analytics & Visualization**: Creating insightful dashboards and reports
+- **🤖 Machine Learning**: Supervised/Unsupervised learning, model optimization
+- **📊 Statistical Analysis**: Hypothesis testing, regression analysis, A/B testing
+- **🧠 Deep Learning**: Neural networks, computer vision, NLP
+- **🔧 MLOps**: Model deployment, CI/CD pipelines, cloud infrastructure
+- **📉 Predictive Analytics**: Forecasting, time series analysis, business intelligence
+
+## 📝 Recent Focus Areas
+
+- 🔬 **Manufacturing Analytics** - Optimizing processes through data-driven insights
+- 🎯 **Predictive Modeling** - Building robust prediction systems
+- 🛠️ **MLOps & Deployment** - Production-ready machine learning solutions
+- 📊 **Advanced Visualization** - Creating compelling data stories with Seaborn and Matplotlib
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
   
-  <tr>
-      <td>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askchandan&theme=tokyonight" />
-    </td>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=askchandan&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
-    </td>
-  </tr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://chandanmalakar.live)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/askchandan)
+
+</div>
+
+## 💡 Data Science Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=askchandan&style=flat-square&color=blue" alt="Profile Views" />
   
-</table>
+  **"Turning Data into Insights, Insights into Impact"** 📊✨
+</div>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=askchandan&base=1000&label=Profile%20views&color=0e75b6&style=flat" alt="Chandan Malakar" /> </p>
-<p>
-
-
-
+**Thanks for visiting my profile! Let's build something amazing with data! 🚀**
