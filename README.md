@@ -1,44 +1,91 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Chandan+Malakar.)](https://git.io/typing-svg)
 
-## About Me
+## 👨‍💻 Professional Summary
 
-I'm on an exciting journey to become a data scientist. I'm following a structured roadmap to reach my goal, and I've now advanced to the machine learning stage. I'm passionate about using my skills to create meaningful, positive changes in everyday life. My focus is on mastering data science to tackle real-world challenges and deliver impactful solutions across different fields.
+Passionate **Data Science Enthusiast** and **Computer Science Engineering Student** with a strong foundation in machine learning, data analysis, and software development. Currently advancing through a structured data science roadmap, focusing on creating meaningful solutions that tackle real-world challenges across various domains.
 
-Cureently in my **Pre-final year** of **B.E. CSE** at [**Aarupadai Veedu Institute of Technology**] 🎆🌟
+## 🎓 Education
 
-## Skills & Technologies
- 
-Data Ingestion, Data Gathering, Data Preprocessing, Data Wrangling, Feature Engineering, Model Training, Model Evaluation, 
-Anaconda, CPP, Flask, Git, Github, Mysql, Mongodb, Netlify, Pycharm, Regex, Sklearn, Vercel, Streamlit, Amazon AWS 
+**Bachelor of Engineering in Computer Science**  
+*Aarupadai Veedu Institute of Technology* | Pre-final Year  
+🎆 Focusing on Data Science, Machine Learning, and Software Engineering principles
 
-## Top Projects
+## 🚀 Current Learning Goals
 
-- [cnnClassifier](https://github.com/askchandan/cnnClassifier)
-  - **Description:** A cat dog images classifier.
-  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0 
+- Advanced Machine Learning algorithms and model optimization
+- Deep Learning with TensorFlow and PyTorch
+- MLOps and deployment strategies
+- Big Data technologies and cloud computing
+- Data Engineering pipelines
 
-- [Twitter-Sentiment-Analysis](https://github.com/askchandan/Twitter-Sentiment-Analysis)
-  - **Description:** A sentiment analyser for twitter tweets.
-  - **Stars:** 0 | **Language:** Jupyter Notebook | **Forks:** 0 | **Open Issues:** 0
+## 🛠️ Technical Skills
 
-- [Laptop-Price-Prediction](https://github.com/askchandan/Laptop-Price-Prediction)
-  - **Description:** A prediction model to estimate laptop prices based on various attributes.
-  - **Stars:** 0 | **Language:** Jupyter Notebook | **Forks:** 0 | **Open Issues:** 0
+### **Data Science & Machine Learning**
+- **Data Pipeline:** Data Ingestion, Gathering, Preprocessing, Wrangling, Feature Engineering
+- **ML Lifecycle:** Model Training, Evaluation, Hyperparameter Tuning, Model Deployment
+- **Libraries & Frameworks:** Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn
 
-- [pr-vercel](https://github.com/askchandan/pr-vercel)
-  - **Description:** A project utilizing Vercel for deployment and serverless functions.
-  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
+### **Programming & Development**
+- **Languages:** Python, C++, SQL, JavaScript
+- **Web Frameworks:** Flask, Streamlit
+- **Development Tools:** PyCharm, Jupyter Notebook, Visual Studio Code, Git & GitHub
 
-- [projects](https://github.com/askchandan/projects)
-  - **Description:** A collection of various programming projects demonstrating my skills.
-  - **Stars:** 0 | **Language:** Python | **Forks:** 0 | **Open Issues:** 0
+### **Databases & Cloud**
+- **Databases:** MySQL, MongoDB
+- **Cloud Platforms:** Amazon AWS
+- **Deployment:** Vercel, Netlify, Streamlit Cloud
 
-## GitHub Stats
+### **Other Technical Skills**
+- **Environment Management:** Anaconda, Virtual Environments
+- **Version Control:** Git, GitHub
+- **Data Analysis:** Regular Expressions (Regex), Statistical Analysis 
 
-📦 **Public Repositories:** 18  
+## 🚀 Featured Projects
+
+### **[CNN Image Classifier](https://github.com/askchandan/cnnClassifier)**
+- **Description:** Deep learning project implementing Convolutional Neural Networks for binary classification of cat and dog images
+- **Tech Stack:** Python, TensorFlow/Keras, OpenCV, NumPy
+- **Key Features:** Data preprocessing, CNN architecture design, model training and evaluation
+- **Impact:** Achieved high accuracy in image classification with optimized model performance
+
+### **[Twitter Sentiment Analysis](https://github.com/askchandan/Twitter-Sentiment-Analysis)**
+- **Description:** Natural Language Processing project analyzing sentiment patterns in Twitter data
+- **Tech Stack:** Python, NLTK, Pandas, Scikit-learn, Jupyter Notebook
+- **Key Features:** Text preprocessing, sentiment classification, data visualization, model evaluation
+- **Impact:** Provides insights into public opinion trends through social media data analysis
+
+### **[Laptop Price Prediction](https://github.com/askchandan/Laptop-Price-Prediction)**
+- **Description:** Machine learning regression model predicting laptop prices based on hardware specifications
+- **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, Jupyter Notebook
+- **Key Features:** Feature engineering, regression modeling, hyperparameter tuning, performance metrics
+- **Impact:** Assists consumers and retailers in price estimation with data-driven insights
+
+### **[Vercel Deployment Project](https://github.com/askchandan/pr-vercel)**
+- **Description:** Full-stack web application demonstrating modern deployment practices
+- **Tech Stack:** Python, Vercel, Serverless Functions
+- **Key Features:** Serverless architecture, automated deployment, scalable web services
+- **Impact:** Showcases proficiency in modern web deployment and cloud technologies
+
+### **[Programming Projects Collection](https://github.com/askchandan/projects)**
+- **Description:** Comprehensive repository showcasing diverse programming skills and problem-solving abilities
+- **Tech Stack:** Python, Various Libraries and Frameworks
+- **Key Features:** Multiple domains, clean code practices, documentation
+- **Impact:** Demonstrates versatility and continuous learning in software development
+
+## 🏆 Achievements & Highlights
+
+- 🎯 **Machine Learning Expertise:** Successfully advanced to ML stage in structured data science roadmap
+- 📊 **Project Portfolio:** Built 18+ repositories showcasing diverse technical skills
+- 🧠 **Continuous Learning:** Actively developing skills in cutting-edge data science technologies
+- 🔬 **Research Focus:** Specialized in applying ML solutions to real-world problems
+- 🌟 **Academic Excellence:** Maintaining strong performance in Computer Science Engineering program
+
+## 📊 GitHub Analytics
+
+**📦 Public Repositories:** 18+ | **🔍 Focus Areas:** Data Science, Machine Learning, Web Development  
 
 
-### Languages and Tools:
+### 🧰 Technologies & Tools
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26px" height="26px"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="26px" height="26px"/>
@@ -53,27 +100,27 @@ Anaconda, CPP, Flask, Git, Github, Mysql, Mongodb, Netlify, Pycharm, Regex, Skle
 <img align="left" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" alt="github" width="26px" height="26px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visual studio" width="26px" height="26px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="26px" height="26px"/>
+
 <br />
 <br />
 
 
 
-### Contact me:
+## 🌐 Connect With Me
 
+I'm always open to discussing data science, machine learning, and collaboration opportunities!
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chandanmalakar7549@gmail.com)](mailto:chandanmalakar7549@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandanmalakar/)](https://www.linkedin.com/in/chandanmalakar/)
-<a href="https://wa.me/6209141001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="20" alt="whatsapp logo"  />
-</a>
+[![Email](https://img.shields.io/badge/-chandanmalakar7549@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandanmalakar7549@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Chandan_Malakar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandanmalakar/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6209141001)
 
+## 📝 Latest Insights
 
-## Latest Blog Posts
+🔗 **Featured Article:** [Data Science Journey Insights](https://t.ly/ZlpIh)  
+📚 Currently sharing experiences and learnings in data science, machine learning implementations, and technical problem-solving approaches.
 
-https://t.ly/ZlpIh
-
-<!-- Github Stats --> 
-### Github stats:
+<!-- GitHub Statistics and Visualizations --> 
+## 📈 GitHub Statistics
 
 <table>
   <tr>
@@ -96,9 +143,14 @@ https://t.ly/ZlpIh
   
 </table>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=askchandan&base=1000&label=Profile%20views&color=0e75b6&style=flat" alt="Chandan Malakar" /> </p>
-<p>
+---
 
+<div align="center">
 
+### 🌟 "Turning data into insights, insights into impact" 🌟
 
+<img src="https://komarev.com/ghpvc/?username=askchandan&base=1000&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+*Thank you for visiting my profile! Feel free to explore my repositories and connect with me for any collaboration opportunities.*
+
+</div>
